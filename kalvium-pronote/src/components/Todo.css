@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(87, 165, 165);
+    text-align: center;
+}
+.heading{
+    font-size: large;
+}
+.main-container{
+    position: relative;
+    top: 150px;
+}
+.text{
+    width:30%;
+}
+.delete,.update{
+    position: relative;
+    top:30px;
+}
+
